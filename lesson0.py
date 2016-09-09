@@ -13,8 +13,6 @@
 # more complex building blocks that you can then use to build your completed
 # program.
 
-# Part 1: "A collection of instructions"
-
 # The following line of code is an example of a single programming instruction:
 pass
 
@@ -78,6 +76,3 @@ print(z)
 # list of items to display instead of just one at a time. The items will be 
 # displayed on one line, separated by spaces:
 print(x, y, z)
-
-# Part 2: "Perform a specific task"
-#===============================================================================
