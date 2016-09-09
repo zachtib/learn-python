@@ -24,9 +24,11 @@ into something more specific. Maybe I should have called the repo Learn *in*
 Python or somesuch.
 
 ### Why Python?
-Python is a popular language for learning, I think for a couple of reasons.
-First is its general readability and simple syntax, but also be
-
+It really doesnt matter what language you use to learn in, as most of the skills
+you learn will translate easily to other languages. I chose to use Python for
+this project because it's something I'm familiar with and has very readable
+syntax. It's also easily interpretted line by line, which I think makes it easy
+to understand what is going on by entering commands into the python interpreter.
 
 ### How to use
 
